@@ -1,0 +1,4 @@
+Albina Trephova 11 0 0 0 1 0 1 0 1
+Tatyana Ivanova 5 0 0 1 0 0 1 0 0
+Vladimir Gorov 7 1 1 0 0 0 0 0 1
+Pavel Dyrov 8 1 0 0 0 0 1 0 0
